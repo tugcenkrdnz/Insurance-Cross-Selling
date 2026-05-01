@@ -1,4 +1,4 @@
-# 🚗 Insurance Cross Selling Prediction (Kaggle S4E7)
+# Kaggle S4E7 - 🚗 Insurance Cross Selling Prediction
 
 Bu proje, Kaggle **Playground Series Season 4, Episode 7** yarışması için geliştirilmiştir. 11.5 milyon satırlık devasa bir veri seti kullanılarak, mevcut sağlık sigortası müşterilerinin araç sigortası teklifine ilgi duyup duymayacağı tahmin edilmektedir.
 
