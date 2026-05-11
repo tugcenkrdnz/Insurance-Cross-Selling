@@ -1,6 +1,6 @@
 # 🚗 Insurance Cross Selling Prediction (Kaggle S4E7)
 
-Bu proje, Kaggle **Playground Series Season 4, Episode 7** yarışması için geliştirilmiştir. 11.5 milyon satırlık devasa bir veri seti kullanılarak, mevcut sağlık sigortası müşterilerinin araç sigortası teklifine ilgi duyup duymayacağı tahmin edilmektedir.
+Bu proje, Kaggle **Playground Series Season 4, Episode 7** yarışması için geliştirilmiştir. Veri seti kullanılarak, mevcut sağlık sigortası müşterilerinin araç sigortası teklifine ilgi duyup duymayacağı tahmin edilmektedir.
 
 ## 📊 Proje Özeti
 Bu bir **İkili Sınıflandırma (Binary Classification)** problemidir. Model, müşteri demografisi, araç geçmişi ve poliçe detaylarını analiz ederek `Response` (0 veya 1) tahmini yapar.
