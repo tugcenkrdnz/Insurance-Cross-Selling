@@ -16,7 +16,7 @@ Bu bir **İkili Sınıflandırma (Binary Classification)** problemidir. Model, m
 
 ## 🚀 Başarı Metriği
 Model performansı **ROC-AUC** skoru ile ölçülmüştür.
-- **Yerel CV Skoru:** 0.87854
+- **Yerel CV Skoru:** 0.87389
 
 ## 📂 Dosya Yapısı
 - `app.py`: Streamlit web uygulaması kodu.
