@@ -1,4 +1,4 @@
-# 🚗 Insurance Cross Selling Prediction (Kaggle S4E7)
+# 🚗 Binary Classification of Insurance Cross Selling (Kaggle S4E7)
 
 Bu proje, Kaggle **Playground Series Season 4, Episode 7** yarışması için geliştirilmiştir. Veri seti kullanılarak, mevcut sağlık sigortası müşterilerinin araç sigortası teklifine ilgi duyup duymayacağı tahmin edilmektedir.
 
